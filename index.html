@@ -569,17 +569,6 @@
                         <!--<div id="msgSubmit" class="h3 text-center hidden"></div> -->
                         <div class="clearfix"></div> 
                       </div>
-                      
-                      
-                      <?php if(isset($_COOKIE['msg_confirm'])) { 
-					  	$msg = $_COOKIE['msg_confirm'] ;
-						setcookie("msg_confirm", "", time()-120, '/');	?>			  
-					   	<script>
-							alert("<?php echo $msg ;?>");
-						</script>   
-                            
-                      <?php } ?>                                              				  
-                      
                     </div>
                   </div>            
                 </form>
