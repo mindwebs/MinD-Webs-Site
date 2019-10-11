@@ -7,7 +7,7 @@ Anyone willing to suggest changes to the current site hosted at [MinD Webs](http
 ## Github Pages  
 The site is hosted under [Github Pages](https://mindwebs.github.io/MinD-Webs-Site/)
 
-### For Hacktober Fest 2019  
+## For Hacktober Fest 2019  
 
 #### This repo is for new developers. HacktoberFest 2019 Guidelines to contribute to this repo :  
 
