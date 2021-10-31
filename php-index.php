@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="keywords" content="MinD Webs, MinD, Webs, Kolkata, Website Development, Design, Content Creation, Copywriting, TechSite, Web Hosting, Dipan Roy, India, Coding, Android, iOS, web design company, Website design company in Kolkata, top 10 website design company in Kolkata, website design company in Kolkata near Salt Lake Sector 5 (V), Domain Registration company in kolkata, Bulk sms company, West Bengal, India, applications, dtp, cheap, hosting">
+    <meta name="keywords" content="MinD Webs, MinD, Webs, Kolkata, Website Development, Design, Content Creation, Copywriting, TechSite, Web Hosting, Blockchain, Dipan Roy, India, Coding, Android, iOS, web design company, Website design company in Kolkata, top 10 website design company in Kolkata, website design company in Kolkata near Salt Lake Sector 5 (V), Domain Registration company in kolkata, Bulk sms company, West Bengal, India, applications, dtp, cheap, hosting">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Dipan Roy">
     <title>MinD Webs - Inspiring The Inspirers</title>
@@ -327,7 +327,7 @@
                 <i class="lnr lnr-clock"></i>
               </div>             
               <div class="fact-count">
-                <h3><span class="counter">450</span>+</h3>
+                <h3><span class="counter">950</span>+</h3>
                 <h4>Working Hours</h4>
               </div>
             </div>
@@ -338,7 +338,7 @@
                 <i class="lnr lnr-briefcase"></i>
               </div>            
               <div class="fact-count">
-                <h3><span class="counter">16</span></h3>
+                <h3><span class="counter">21</span></h3>
                 <h4>Completed Projects</h4>
               </div>
             </div>
@@ -608,13 +608,13 @@
                 <a href="http://mindwebs.org/admin/">Admin Panel</a>
               </li>
               <li>
-                <a href="#cntact">Contact</a>
+                <a href="#contact">Contact</a>
               </li>
             </ul>
           </div>
           <div class="col-lg-6 col-sm-6 col-xs-12">
             <div class="copyright">
-              <p>All copyrights reserved &copy; 2018 <br>Designed & Developed with <span class="fa fa-heart"> </span> by <a rel="nofollow" href="#">Dipan Roy</a></p>
+              <p>All copyrights reserved &copy; 2021 <br>Designed & Developed with <span class="fa fa-heart"> </span> by <a rel="nofollow" href="#">Dipan Roy</a></p>
             </div>
           </div>  
         </div>
